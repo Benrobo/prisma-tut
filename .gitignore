@@ -1,0 +1,7 @@
+/node_modules
+/src/.env
+/build
+.env
+
+test.js
+
